@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NanoDegreeAppsLauncher</string>
+    <string name="app_start_message">Starting app: %s</string>
+    <string name="app_failed_message">%s app seems to be not installed. Please installed the app and try agian.</string>
+</resources>
